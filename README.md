@@ -12,3 +12,15 @@
 
 * Windbg Preview 설치
 
+![](.gitbook/assets/image%20%283%29.png)
+
+* WinDbg 실행
+* dump 파일 열기
+
+![](.gitbook/assets/image%20%284%29.png)
+
+![](.gitbook/assets/image%20%285%29.png)
+
+* !analyze -v
+  * 시간이 걸립니다.
+* 
