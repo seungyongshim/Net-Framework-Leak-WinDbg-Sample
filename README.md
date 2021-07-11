@@ -1,1 +1,2 @@
-![CI](../../workflows/CI/badge.svg)
+# Initial page
+
